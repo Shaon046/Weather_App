@@ -225,3 +225,28 @@ body > span {
     font-size: 2rem;
     margin: 2rem auto;
 }
+
+
+
+
+/* =====================MEDIA QUERY(MEDIUM DEVICE[TABLETS])================================= */
+
+@media screen and (max-width: 1024px) {
+
+    } 
+    
+    /* =====================MEDIA QUERY(SMALL DEVICE[MOBILE])================================= */
+    
+    @media screen and (max-width: 600px) {
+        .location {
+            margin-top: -5.5rem;
+            text-align: center;
+            font-weight: 800;
+            font-size: 3rem;
+            text-transform: capitalize;
+        }
+    }
+    
+
+
+
